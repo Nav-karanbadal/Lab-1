@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab-1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-red-200 ">
+    <div class="container ">
+        <!-- heading  -->
+        <header class="m-6">
+             <h1 class="font-bold ">Heading</h1>
+             <p class="text-orange-500">Subheading</p>
+        </header>
+
+        <!-- grid layout -->
+         <div class="grid grid-cols-3 gap-2 ml-3">
+
+            <!-- cards -->
+
+
+            <!-- card-1  -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+
+
+            <!-- card-2  -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+
+            <!-- card-3 -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+
+            <!-- card-4 -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96 mt-6">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+
+            <!-- card-5  -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96 mt-6">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+
+            <!-- card-6  -->
+
+            <div class="bg-red-200 p-6 rounded-md border border-red-100 w-80 h-96 mt-6">
+                <div class="bg-gray-300 h-32 w-36 flex items-center justify-center mb-4">
+                  <span class="text-gray-500">Image</span>
+                </div>
+                <h3 class="text-lg font-bold text-gray-900 mb-2">Title</h3>
+                <p class="text-orange-400">Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story.</p>
+            </div>
+
+        </div>
+        </div>
+         </div>
+    </div>
+   
+</body>
+</html>
